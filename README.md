@@ -14,14 +14,14 @@ In this section (found in the Line Chart Outcomes tab), I explored the relations
 
 ## Statistical Analysis
 
-I evaluated the number of backers for successful and unsuccessful campaigns, calculating summary statistics such as mean, median, minimum, maximum, variance, and standard deviation of backers. I compared variability between successful and unsuccessful campaigns, determining whether the mean or median better summarized the data. This analysis can be found in the Successful vs Failed Analysis tab.
+I evaluated the number of backers for successful and unsuccessful campaigns, calculating summary statistics such as mean, median, minimum, maximum, variance, and standard deviation of backers. I compared variability between successful and unsuccessful campaigns, determining whether the mean or median better summarized the data. This can be found in the Successful vs Failed Analysis tab in CrowdfundingBook.xlsx and further analysis can be found in Module 1 Challenge Observations.docx.
 
 ## Conclusion
 
-This project provided valuable insights into the world of crowdfunding, allowing me to uncover trends and patterns that can inform future campaigns. By analyzing the dataset and conducting statistical analyses, I gained a deeper understanding of crowdfunding dynamics and success factors.
+This project provided valuable insights into the world of crowdfunding, allowing me to uncover trends and patterns that can inform future campaigns. I found that there were more crowdfunding campaigns in the Theater category than any other category. In the Film & Video category, about 57% (102/178) of the crowdfunding campaigns were successful. In the Science Fiction sub-category, there were more failed campaigns (9) than successful campaigns (5). By analyzing the dataset and conducting statistical analyses, I gained a deeper understanding of crowdfunding dynamics and success factors.
 
 
-**Code Citations:**
+## Code Citations
 
 Splitting Cells into Columns:
 (Found on the Crowdfunding tab in the Parent Category and Sub-Category columns)
